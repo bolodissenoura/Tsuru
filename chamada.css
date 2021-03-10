@@ -1,0 +1,49 @@
+.impressora {
+    position: relative;
+    right: 200px;
+    top: 200px;
+    height: auto;
+}
+.chamada {
+    background-color:#27699c;
+    height: 100vh;
+    width: 100%;
+}
+.callp{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button {
+    position: relative;
+    top: 30%;
+    left: 30%;
+    background-color: #0d426f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px #0d426f;
+}
+button:hover{
+    background-color: blue;
+}
+.ribboncomum{
+    display: none;
+}
+.ribbonPremium{
+    position: relative;
+    left: 30%;
+    bottom: 50px;
+}
+.ribbonp{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
