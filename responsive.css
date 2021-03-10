@@ -1,5 +1,29 @@
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1200px) {
+@media only screen  and (min-width : 1366px) {
+    .page {
+        height: 500vh;
+        width: 100%;
+        overflow: hidden;
+    }
+    h1{
+        font-size: 50px;
+        position: relative;
+        left: 20%;
+        text-shadow: 10px 10px 30px black;
+    }
+    .cpu{
+        width: 300px;
+        left: 20%;
+        top: 120px;
+    }
+    .chamada {
+        background-color:#27699c;
+        height: 100vh;
+        width: 100%;
+    }
+    .logo{
+        width: 300px;
+    }
     .images {
         position:relative;
         background-repeat: no-repeat;
@@ -21,6 +45,151 @@
     bottom {
         position: relative;
         top: 30%;
+        left: 99%;
+    }
+    .borderthree{
+        position: fixed;
+        top: 95%;
+        opacity: 50%;
+    }
+    .borderimg{
+        position: relative;
+        width: 25%;
+        right: 5%;
+    }
+    .interrogacao{
+        display: auto;
+        width: 20%;
         left: 50%;
+        top: 30%;
+    }
+    .codigo{
+        left: 30%;
+        width: 10%;
+    }
+    .vendas{
+        left: 73%;
+    }
+    .suporte {
+        left: 195%;
+    }
+    .cartas{
+        left: 320%;
+    }
+    .cartap{
+        font-size: 20px;
+        bottom: 40%;
+    }
+    .vendasp{
+        font-size: 20px;
+    }
+    .suportep{
+        font-size: 15px;
+        bottom: 85%;
+    }
+    .logotwo{
+        width: 20%;
+        position: relative;
+        top: 60%;
+        left: 40%;
+        height: auto;
+    }
+}
+/* Iphone 5 e Iphone SE----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) {
+    .page {
+        height: 480vh;
+        width: 100%;
+        overflow: hidden;
+    }
+    .borderthree{
+        position: relative;
+        top: 80%;
+    }
+    .suportep{
+        font-size: 9px;
+        bottom: 50%;
+    }
+    .interrogacao{
+        display: none;
+    }
+}
+/* Iphone 6,7 ou 8----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px){
+    .page {
+        height: 400vh;
+        width: 100%;
+        overflow: hidden;
+    }
+}
+@media only screen and (min-device-width: 300px) and (max-device-height: 580px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    .page {
+        height: 500vh;
+        width: 100%;
+        overflow: hidden;
+    }
+}
+
+/* Ipad Pro----------- */
+@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px){
+    .page {
+        height: 300vh;
+        width: 100%;
+        overflow: hidden;
+    }
+    h1{
+        font-size: 50px;
+        position: relative;
+        left: 10%;
+        text-shadow: 10px 10px 30px black;
+    }
+    .callp{
+        font-size: 50px;
+    }
+    .logo, .usa{
+        left: 30%;
+    }
+    .logo{
+        width: 30%;
+    }
+    .interrogacao{
+        display: none;
+    }
+    .suporte , .cartas, .vendas {
+        opacity: 30%;
+    }
+    .suportep{
+        font-size: 20px;
+        bottom: 60%;
+    }
+    .cartap{
+        font-size: 20px;
+        bottom: 40%;
+    }
+    .vendasp{
+        font-size: 20px;
+    }
+
+}
+/* Galaxy Fold----------- */
+@media only screen and (min-device-width: 280px) and (max-device-height: 653px){
+    .interrogacao{
+        display: none;
+    }
+    .page{
+        height: 430vh;
+    }
+    .usa{
+        display: none;
+    }
+}
+@media only screen and (min-device-width: 1366px) {
+    .page{
+        height: 500vh;
+    }
+}
+@media only screen and (min-device-width: 1255px) {
+    .page{
+        height: 500vh;
     }
 }
