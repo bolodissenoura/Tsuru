@@ -1,4 +1,5 @@
-📢Este foi um projeto para um projeto seletivo de uma empresa especializada em Frontend.
+📢Este foi meu primeiro projeto, um portifólio.
+Aprendi muito com esse projeto, antes edle nunca nem tinha ouvido falar de FrontEnd ou HTLM e CSS.
 
 Utilizei HTML5 e CSS;
 Responsivo para todas as telas;
