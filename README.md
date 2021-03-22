@@ -10,4 +10,4 @@ I used HTML5 and CSS;
 Responsive for all screens;
 Made on demand, as requested by the designers;
 
-<img src="https://media.giphy.com/media/28QCZN6ylVU2UmWOBD/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/28QCZN6ylVU2UmWOBD/giphy.gif" width="400" height="400" />
