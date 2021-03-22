@@ -18,7 +18,7 @@ COMPUTER SCREEN // MOBILE SCREEN :
 <img src="https://media.giphy.com/media/28QCZN6ylVU2UmWOBD/giphy.gif" width="800" height="400" />
 
 
-<img src="https://media.giphy.com/media/52bMOJagaxDMq0S7F8/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/5U2iiDTawxVCgjE4UJ/giphy.gif" width="800" height="400" />
 
 --------------------------------------------------
 
