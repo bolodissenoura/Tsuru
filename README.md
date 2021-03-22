@@ -10,4 +10,4 @@ I used HTML5 and CSS;
 Responsive for all screens;
 Made on demand, as requested by the designers;
 
-<iframe src="https://giphy.com/embed/28QCZN6ylVU2UmWOBD" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/28QCZN6ylVU2UmWOBD">via GIPHY</a></p>
+[Alt Text](https://media.giphy.com/media/28QCZN6ylVU2UmWOBD/giphy.gif)
