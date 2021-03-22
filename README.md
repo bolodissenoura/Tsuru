@@ -15,7 +15,7 @@ Made on demand, as requested by the designers;
 -----------------------------------------------
 
 COMPUTER SCREEN // MOBILE SCREEN :
-<img src="https://media.giphy.com/media/28QCZN6ylVU2UmWOBD/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/pIEiOxH5lU3jSNhYs3/giphy.gif" width="800" height="400" />
 
 
 <img src="https://media.giphy.com/media/lHP85h9meyamIT2tYD/giphy.gif" width="800" height="400" />
